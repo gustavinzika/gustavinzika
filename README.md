@@ -15,7 +15,7 @@ Desenvolvo ferramentas desktop, automações e projetos de back-end.
 | [QuickPane](https://github.com/gustavinzika/quickpane) | Painel flutuante em Python para Linux, com atalhos de teclado e captura de tela. |
 | [Project Memory & Evidence Core](https://github.com/gustavinzika/project-memory-evidence-core) | Núcleo Python e SQLite para registrar decisões e rastrear a origem das evidências de um projeto. |
 
-## Skills para Codex
+## Skills para Codex e Claude
 
 Desenvolvi cinco skills para planejar animações, produzir sprites e implementar interfaces a partir de referências visuais. Cada projeto tem um guia de uso em inglês.
 
